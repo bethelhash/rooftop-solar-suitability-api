@@ -4,7 +4,7 @@
 OpenStreetMap building detection · NREL usable area fractions · PVWatts V8 yield · IFC setback compliance.
 
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-Subscribe-0055DA?style=flat-square)](https://rapidapi.com/bethelnedi/api/rooftop-solar-suitability-api)
-[![Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=flat-square)](https://amfumu-rooftop-solar-suitability-api.hf.space/docs)
+[![Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=flat-square)](https://amfumu-rooftop-solar-api.hf.space/docs)
 
 ## How It Works
 
